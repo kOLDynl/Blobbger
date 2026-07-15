@@ -37,6 +37,9 @@ Trigger Bot[+] Custom ms
 [+] Line Lag
 ⌊ Strenth Line + grab ms
 ⌊ Crazy Line + ms
+[+] Lobotomy
+⌊ Strenth
+???
 **Invisibility**
 [+] Anti Grab + method
 [+] Anti kick + custom CFG
@@ -52,6 +55,7 @@ Trigger Bot[+] Custom ms
 [+] Anti Lag
 [+] Anti Burn
 [+] Anti invis
+[+] Anti dsync
 [+] Auto reset
 [+] Auto Leave
 [+] Loop Tp + method
@@ -90,6 +94,7 @@ Trigger Bot[+] Custom ms
 [+] Freze blob
 [+] Auto seat on blob
 [+] Dsync blobman (maybe)
+[+] Target HUD Info
 ~ Method blob
 ⌊ Kick, kill, bring, lock, folow, remove gucci.
 ~ Method grab
@@ -102,12 +107,18 @@ Trigger Bot[+] Custom ms
 [+] Claim Plot
 [+] Break plot
 [+] Fling Toys
-~ Break Parts
+~ Break / Bring
 [+] Break part
 ⌊ Dropdown grass 1-(10-40 IDK XD)
+[+] Delete Train
+[+] Bring object
+⌊ Dropdown all levitate obj
+[+] Breaker Food
+⌊ Dropdown all food + Loop
 ~~ Sky, camera correction, Terrain
 ~ Sky
-???
+[+] Texture
+[+] etc....
 ~ Camera
 ???
 ~ Terrain
@@ -142,6 +153,8 @@ Trigger Bot[+] Custom ms
 [+] Line + settings
 ⌊ Emiter, Line, string
 [+] Jump Curcle = settings
+~ Bot ( просто бот моральной поддержки) / Just a moral support bot) )
+????
 ~ Blobman Visual
 [+] Walk curcle
 [+] texture custom
@@ -150,17 +163,45 @@ Trigger Bot[+] Custom ms
 [+] sound
 [+] Effect
 ~ Kill Effect
-???????????????????????? (son😭)
+⌊ Type and custom
+???? (son?)
 ~ Line
 [+] Texture
 ~ TargetESP
 ⌊ Dropdown Target, Ghost, Crystal
-⌊ customized for each visual/кастом под каждый визуал
+⌊ customized for each visual / кастом под каждый визуал
 **Misc**
 ~ Finder
-[+] Find cheat ( Mercury, Resistance, Blitz, SRV9, Resonance, Other)
+[+] Find cheat ( Mercury, Resistance, Blitz😂, SRV9, Resonance, Other)
 ~ Spam song
 [+] Spam song chat
 ⌊ Dropdown songs
-[+] 
-It’ll happen soon, mostly because I’m fucking fed up./ Скоро больше по причине я заебался 
+[+]
+**Friend**
+~ Whitelist
+⌊ Dropdown player
+[+] banner friend
+~?-(
+RU: Добавляет банер на плечо для пометки что это ваш союзник или юзер скрипта blobbger. Видеть будут только юзеры Blobbger
+ENG: Adds a banner to the shoulder to indicate that the player is an ally or a Blobbger script user. Only Blobbger users will see it.)
+~ Blacklist
+⌊ Dropdown player
+~ Friend / Partner helper
+[+] Anti kick friend
+[+] Anti grab friend
+**Ui**
+~ Notifications
+[+] Song Notify
+⌊ Dropdown with popular song
+~?-( 
+RU: В notifications по умолчавнию будут detect packet lag и line lag с информацией, а так же банальные функции kick player/target player, leave target player, join target, и будут другие такие как blacklist target player, whitelist player join
+ENG: By default, the notifications will detect and display information on packet lag and line lag; they will also include standard functions like kick/target a player, leave/join a target, as well as others such as blacklisting a target player or whitelisting a player to join).
+~ Watermark
+[+] spyscript (грубо говоря кастомизация скрипта под другую иконку / Roughly speaking, customizing the script for a different icon)
+It’ll happen soon, mostly because I’m fucking fed up / Скоро больше по причине я заебался это писать
+~ Art 
+[+] texture + anim + pos custom
+~ Log
+~?-( 
+RU: Просрал скриншот с киком уебища? Не беда! logs теперь будут выручать в эту ситуацию. В него будут записыватся kick, join, leave таргет игрока. При выборе нужного лога и нажатия кнопки вылезет уведомления и ты успеешь заскриншотить
+ENG: Did you miss the screenshot when that piece of shit got kicked? No problem! The logs have got you covered. They record kick, join, and leave events, along with the target player. When you select the right log entry and click the button, a notification pops up, giving you time to take the screenshot)
