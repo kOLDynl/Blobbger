@@ -1,4 +1,22 @@
-[+] защита скрипта (пока без обфускации) / defence script
-[+] добавлен сайт скрипта / add site script
-[+] защита доступа скрипта / defence acces script
-[+] исправил ошибку скрипта / fix err script
+[+] Anti Kick (BETA)
+⌊ + Dropdown type stick part 𝗧𝗼𝗼𝗹 𝗣𝗲𝗻𝗰𝗶𝗹, 𝗧𝗼𝗼𝗹 𝗣𝗶𝗰𝗸𝗮𝘅𝗲, 𝗡𝗶𝗻𝗷𝗮𝗞𝘂𝗻𝗮𝗶, 𝗧𝗼𝗼𝗹𝗖𝗹𝗲𝗮𝘃𝗲𝗿, 𝗡𝗶𝗻𝗷𝗮𝗦𝘂𝗿𝗶𝗸𝗲𝗻, 𝗡𝗶𝗻𝗷𝗮𝗞𝗮𝘁𝗮𝗻𝗮
+⌊ + Settings pos and rotate stick part
+⌊ + Custom Transperency
+⌊ +! Custom Highlight (Soon)
+
+[+]! Anti Kick (Alpha)
+⌊ Dropdown type part 𝗧𝗼𝗼𝗹 𝗣𝗲𝗻𝗰𝗶𝗹, 𝗧𝗼𝗼𝗹 𝗣𝗶𝗰𝗸𝗮𝘅𝗲, 𝗡𝗶𝗻𝗷𝗮𝗞𝘂𝗻𝗮𝗶, 𝗧𝗼𝗼𝗹𝗖𝗹𝗲𝗮𝘃𝗲𝗿, 𝗡𝗶𝗻𝗷𝗮𝗦𝘂𝗿𝗶𝗸𝗲𝗻, 𝗡𝗶𝗻𝗷𝗮𝗞𝗮𝘁𝗮𝗻𝗮 etc
+⌊ + Settings pos
+⌊ + Custom Transperency
+⌊ + Custom Highlight (Soon)
+
+[+]! Dsync (Alpha)
+⌊ soon / скоро
+
+[~] Notification 
+⌊ доработал уведомление и теперь рабоает лучше / I tweaked the notification, and it works better now
+
+--Kybe
+[+] Anti anti kick grab resonance (Alpha)
+
+[+] hat full done
